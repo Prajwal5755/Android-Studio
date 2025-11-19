@@ -1,3 +1,4 @@
+```
 package com.example.recycler;
 
 public class ContactModel {
@@ -13,3 +14,5 @@ public class ContactModel {
     }
 
 }
+```
+
