@@ -1,3 +1,4 @@
+```
 package com.example.login;
 
 import android.content.Intent;
@@ -117,4 +118,6 @@ public class Registration extends AppCompatActivity {
             return insets;
         });
     }
+
 }
+```
