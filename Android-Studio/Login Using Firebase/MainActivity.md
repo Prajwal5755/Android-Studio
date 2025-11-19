@@ -1,4 +1,5 @@
- package com.example.login;
+```
+package com.example.login;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -51,4 +52,6 @@ import com.google.firebase.auth.FirebaseUser;
             return insets;
         });
     }
+
 }
+```
